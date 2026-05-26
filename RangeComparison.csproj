@@ -10,6 +10,8 @@
     <Description>Simple C# library with an extension class for range types to do range comparisons inclusive, exclusive and everything in between.</Description>
     <PackageLicenseExpression>GPL-3.0-only</PackageLicenseExpression>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/nolocobralink/RangeComparison.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
